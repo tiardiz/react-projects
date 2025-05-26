@@ -1,0 +1,12 @@
+.button {
+  color: white;
+  padding: 1rem;
+  height: fit-content;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.button:hover {
+  opacity: 80%;
+}

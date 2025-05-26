@@ -1,0 +1,17 @@
+.App {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition-property: background-color color;
+  transition-duration: 2s;
+}
+
+.quotes-container {
+  width: 500px;
+  height: fit-content;
+  background-color: white;
+  border-radius: 10px;
+  padding: 3rem;
+}
